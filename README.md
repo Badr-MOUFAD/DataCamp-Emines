@@ -1,3 +1,3 @@
-# DataCamp-Emines
+# DataCamp-EMINES
 
-repo containing assignment for the data camp week at EMINES
+repo containing assignments for the data camp week at EMINES
